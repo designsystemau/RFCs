@@ -20,8 +20,6 @@ If you have identified a change you'd like to see in the [Australian Government 
    - Do not remove the `_RFC-template.md` file
 3. Submit your PR
 
-Open a [new PR](https://github.com/designsystemau/RFCs/compare) to this repository and use [the template](RFCs/1-approved/_RFC-template.md) as a starting point and fill it with the information you have.
-
 (💡 The template comes with hints and sections to help you navigate it.)
 
 ## What are the stages of an RFC?
