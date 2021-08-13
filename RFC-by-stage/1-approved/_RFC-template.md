@@ -16,7 +16,7 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
 <!--
   Please provide a TL;DR in one to two paragraphs what the proposed outcome is.
-  There should be enough information to form as brief to implementation. 
+  There should be enough information to form as brief to implementation.
 -->
 
 ## Technical details

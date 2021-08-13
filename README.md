@@ -14,10 +14,10 @@ An RFC (Request for Comments) is a document, in our case a markdown file, that s
 
 If you have identified a change you'd like to see in the [Australian Government Design System](https://github.com/designsystemau/design-system-components) then please submit an RFC to [this repository](https://github.com/designsystemau/RFCs).
 
-1. Duplicate RFCs/RFC-by-stage/1-approved/_RFC-template.md to RFCs/RFC-by-stage/1-approved/[YOUR RFC NAME].md
+1. Duplicate `RFCs/RFC-by-stage/1-approved/_RFC-template.md` to `RFCs/RFC-by-stage/1-approved/[YOUR RFC NAME].md`
 2. Fill out all the sections
-    - Do not change the status at the top of the file
-    - Do not remove the `_RFC-template.md` file
+   - Do not change the status at the top of the file
+   - Do not remove the `_RFC-template.md` file
 3. Submit your PR
 
 Open a [new PR](https://github.com/designsystemau/RFCs/compare) to this repository and use [the template](RFCs/1-approved/_RFC-template.md) as a starting point and fill it with the information you have.
@@ -36,7 +36,7 @@ An RFC can be merged when it receives an absolute majority of approvals from [Ma
 
 ## How will my RFC be approved?
 
-[Maintainers](https://github.com/designsystemau/maintainers) will look at your RFC and discuss it in your PR. 
+[Maintainers](https://github.com/designsystemau/maintainers) will look at your RFC and discuss it in your PR.
 
 You can also ask for help with the RFC process on Slack at [#ref-help](https://govau-guides.slack.com/archives/C02B0046A5T).
 
