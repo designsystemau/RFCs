@@ -12,10 +12,11 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
   Even if you're adding a new feature/new component, please describe why you think it is needed and what it solves.
 -->
 
-## A short description of the solution
+## A short description of the desired outcome or solution
 
 <!--
-  Please provide a TL;DR in one to two paragraphs what your proposed solution is.
+  Please provide a TL;DR in one to two paragraphs what the proposed outcome is.
+  There should be enough information to form as brief to implementation. 
 -->
 
 ## Technical details
