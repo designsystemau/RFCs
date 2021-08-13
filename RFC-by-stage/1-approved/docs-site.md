@@ -9,6 +9,7 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
 The current docs site, while static and well designed, is outdated and not driven with the same pace as the components.
 Co-location of docs and components will also solve the issue of features that are being developed having to include docs (changes) in the same piece of work making the definition of done more transparent.
+Another issue is that the current tool is too niche and it's hard to use. We should use something as simple as possible to be able to focus on the content.
 We need to retain the static nature of the docs site so we can continue to rely on free static hosting like GitHub pages or Netlify etc.
 the information of the pages are also outdated not that the components have moved into the Design System Au group.
 
