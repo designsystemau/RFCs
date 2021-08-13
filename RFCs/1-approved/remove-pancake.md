@@ -1,5 +1,7 @@
-Status: `Proposal`
-Implementer:
+---
+Status: `Proposal` # Please do not change this.
+Implementer: # It will be changed upon merging and as it moves through the RFC stages
+---
 
 # Remove pancake
 
