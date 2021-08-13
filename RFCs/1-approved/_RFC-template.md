@@ -1,13 +1,9 @@
-Status: `Proposal`
-Implementer:
+---
+Status: `Proposal` # Please do not change this.
+Implementer: # It will be changed upon merging and as it moves through the RFC stages
+---
 
-<!-- ^ Please do not change this. It will be changed upon merging and as it moves through the RFC stages -->
-
-# Title of the RFC
-
-<!--
-  Please provide a short but descriptive title for your RFC
--->
+# Title of the RFC <!-- Please provide a short but descriptive title for your RFC -->
 
 ## The issue to be solved
 

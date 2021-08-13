@@ -19,10 +19,11 @@ Open a [new PR](https://github.com/designsystemau/RFCs/compare) to this reposito
 
 Make sure you:
 
-- Add your new RFC into the `RFCs/1-approved/` folder
+- Duplicate the `RFCs/1-approved/_RFC-template.md` file
 - Name your new markdown file appropriately
 - Fill out all the sections
 - Do not change the status at the top of the file
+- Do not remove the `_RFC-template.md` file
 - Submit your PR
 
 ## What are the stages of an RFC?
