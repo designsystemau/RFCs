@@ -11,11 +11,15 @@ I propose that we rename "Australian Government Design System" to "GOLD Design S
 
 I propose that we do this as it was the original name of the system, as can be seen in this [CSS Tricks tweet](https://mobile.twitter.com/css/status/970805659842134016) and the [original docs site](https://trevorbrennan.com/cv/gold). 
 
-I believe this would be an appropriate identity change, in light of the end of an era of the DTA being the custodians.    
+I am aware this is supported by @dominikwilkowski for different reasons, mentioned [in his Twitter thread](https://twitter.com/wilkowskidom/status/1426350990446399490?s=20). Dominik argues that having a fun name (as opposed to a plain language name) has the effect of "creating shared language" and is better to "excite people about working together", particularly non-technical people. That this is beneficial for "creating unity and delight" and gives your people an identity. Further, that not taking a project in a light-hearted way ("not too seriously") is "an important part to make yourself #accessible".
+
+Building on this, in light of the end of an era of DTA custodianship, I believe this would be an appropriate identity change to reignite the community.    
 
 There is a counter argument for leaving the name as "Australian Government Design System" or "AuDS" because it is more clear, and people know what it is.  
 
 However, both are authentic names for the system.
+
+Also, and finally, everyone loved the name "GOLD".
 
 ## A short description of the desired outcome or solution
 
