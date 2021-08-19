@@ -5,7 +5,7 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
 # Rename design system to GOLD
 
-I propose that we rename "Australian Government Design System" to "GOLD Design System", where GOLD is an acronym for "Government Open Language for Design". I also propose we rename "Design System AU" to "Design System Au", where "u" in "Au" is lower case as that the atomic label representing the element gold. 
+I propose that we rename "Australian Government Design System" to "GOLD Design System", where GOLD is an acronym for "Government Open Language for Design". I also propose we rename "Design System AU" to "Design System Au", where "u" in "Au" is lower case as that the atomic label representing the element gold. I think this is makes the connection between the org naming and DS naming clearer and more logical. 
 
 I propose that we do this as it was the original name of the system, as can be seen in this [CSS Tricks tweet](https://mobile.twitter.com/css/status/970805659842134016) and the [original docs site](https://trevorbrennan.com/cv/gold). 
 
