@@ -3,9 +3,7 @@ Status: `Proposal` # Please do not change this.
 Implementer: # It will be changed upon merging and as it moves through the RFC stages
 ---
 
-# Title of the RFC <!-- Please provide a short but descriptive title for your RFC -->
-
-## Rename design system
+# Rename design system to GOLD
 
 I propose that we rename "Australian Government Design System" to "GOLD Design System", where GOLD is an acronym for "Government Open Language for Design". I also propose we rename "Design System AU" to "Design System Au", where "u" in "Au" is lower case as that the atomic label representing the element gold. 
 
