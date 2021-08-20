@@ -26,13 +26,5 @@ The master list would invite community input but not every request would be acti
 * 103 separate accessibility tests comprising all 50 WCAG 2.1 AA success criteria, as an example https://canaxess.github.io/accessibility-resources/
 * filterable by role or component
 * excel export functionality
-
-<!--
-  Here please go deep into your vision of your solution.
-  Provide things like  (if applicable):
-    - javascript architecture
-    - accessibility concerns
-    - designs
-    - token usage
-    - naming
--->
+* working from a common language of agreeing what is a failure/pass according to WCAG 
+* making it easy for devs, ui, ux and whoever else to interrogate and understand
