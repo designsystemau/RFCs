@@ -50,6 +50,6 @@ To raise your hands to implement an RFC submit a PR to the RFC document and add 
 
 ### Project management
 
-RFCs by processing stage are tracked on [this Board](https://github.com/designsystemau/RFCs/projects/1). 
+RFCs by processing stage are tracked on [this Board](https://github.com/designsystemau/RFCs/projects/1).
 
-RFCs that are "In Progress" should be tracked at a new GitHub Projects board [here](https://github.com/orgs/designsystemau/projects). It should be clear how work will be broken down and assigned. Groups should also create a Slack channel with prefix "feature-", ie "feature-my-rfc-idea" and invite relevant people.    
+RFCs that are "In Progress" should be tracked at a new GitHub Projects board [here](https://github.com/orgs/designsystemau/projects). It should be clear how work will be broken down and assigned. Groups should also create a Slack channel with prefix "feature-", ie "feature-my-rfc-idea" and invite relevant people.
