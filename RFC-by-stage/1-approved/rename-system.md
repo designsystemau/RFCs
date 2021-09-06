@@ -27,10 +27,13 @@ This would require:
 - to update of all references of "AuDS" to "GOLD"
 - Other branding updates
 - A Press Release or Blog post indicating this has occurred
+- Rename npm handle to `@gold.au` 
+- Update casing of org from `Design System AU` to `Design System Au`
 
 This would **not** require:
 
-- Change to the npm handle or Github org, as the organisation would be the same
+- Github org and organisation remain named `Design System Au`
+
 
 ## Technical details
 
