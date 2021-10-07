@@ -9,7 +9,7 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
 Grid 12 is how the Design System does layout.
 
-Grid 12 was based on Bootstrap 3 (I think, it might be v4) and uses the box model to handle layout. Bootstrap v3 Grid docs here https://getbootstrap.com/docs/3.3/css/#grid and v4 here https://getbootstrap.com/docs/4.0/layout/overview/.
+Grid 12 was based on Bootstrap 3 (I think, it might be v4) and uses the box model to handle layout. Bootstrap v3 Grid docs here https://getbootstrap.com/docs/3.3/css/#grid and v4 here https://getbootstrap.com/docs/4.0/layout/grid/.
 
 However, Bootstrap is now at v5.1 and has moved to Flexbox, see https://getbootstrap.com/docs/5.1/layout/grid/, which is a good signal that we should too.
 
