@@ -19,9 +19,8 @@ A downside is that this would limit browser compatibility, however, Flexbox is h
 
 ## A short description of the desired outcome or solution
 
-I propose we keep a similar API design, but replace the internals of Grid 12 to use Flexbox.   
-
+I propose we keep a similar API design, but replace the internals of Grid 12 to use Flexbox.
 
 ## Technical details
 
-* Rewrite Grid 12 module
+- Rewrite Grid 12 module
