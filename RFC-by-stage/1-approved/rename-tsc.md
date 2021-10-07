@@ -15,13 +15,12 @@ In support of the change, Jordan Hatch added - "lots of non-'technical' aspects 
 
 In support of the change, Matt Sawkill added - "agree that design, content, etc are technical roles and we'd love to have them, but those folks are just as likely to be influenced by the industry to not think of themselves that way".
 
-
 ## A short description of the desired outcome or solution
 
-* Rename all references of "TSC" to the expanded "Steering Committee" 
+- Rename all references of "TSC" to the expanded "Steering Committee"
 
 ## Technical details
 
-* repo renaming
-* update references on blog 
-* slack group renaming
+- repo renaming
+- update references on blog
+- slack group renaming
