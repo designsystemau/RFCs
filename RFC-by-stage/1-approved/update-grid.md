@@ -13,6 +13,9 @@ Grid 12 was based on Bootstrap 3 (I think, it might be v4) and uses the box mode
 
 However, Bootstrap is now at v5.1 and has moved to Flexbox, see https://getbootstrap.com/docs/5.1/layout/grid/. 
 
+There are increased benefits of using Flexbox - such as easier vertical centering, which would add features to Grid 12.
+
+A downside is that this would limit browser compatibility, however, Flexbox is highly supported by browsers nowadays, see https://caniuse.com/flexbox.
 
 ## A short description of the desired outcome or solution
 
