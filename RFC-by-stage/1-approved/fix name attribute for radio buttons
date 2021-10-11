@@ -1,0 +1,29 @@
+---
+Status: `Proposal` # Please do not change this.
+Implementer: # It will be changed upon merging and as it moves through the RFC stages
+---
+
+# Title of the RFC <!-- Please provide a short but descriptive title for your RFC -->
+
+## The issue to be solved
+
+<!--
+  Here https://gold.designsystemau.org/components/control-input/accessibility/
+  Keyboard focus order and screen reader announcements of radio button position in radio group and total of the radio group are incorrect.
+  All 3 examples are affected. 
+-->
+
+## A short description of the desired outcome or solution
+
+<!--
+  - Tab key should be used to focus radio group and move focus outside of radio group, inside radio group arrow keys should be used to move focus (select radio buttons)
+  - The screen readers should announce correct position in radio group and total of the radio group, i.e. '1 of 2', '2 of 2'.
+  
+-->
+
+## Technical details
+
+<!--
+  The reason is that the 'name' attributes for radio buttons mismatch, 
+  should be name="radio-ex" for both light radio buttons and name="radio-ex-dark" for both dark radio buttons.
+-->
