@@ -13,7 +13,6 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
 ## A short description of the desired outcome or solution
 
-<!--
   - Tab key should be used to focus radio group and move focus outside of radio group, inside radio group arrow keys should be used to move focus (select radio buttons)
   - The screen readers should announce correct position in radio group and total of the radio group, i.e. '1 of 2', '2 of 2'.
   
