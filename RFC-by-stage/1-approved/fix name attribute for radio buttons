@@ -7,7 +7,6 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
 ## The issue to be solved
 
-<!--
   Here https://gold.designsystemau.org/components/control-input/accessibility/
   Keyboard focus order and screen reader announcements of radio button position in radio group and total of the radio group are incorrect.
   All 3 examples are affected. 
