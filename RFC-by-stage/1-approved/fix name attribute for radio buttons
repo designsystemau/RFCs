@@ -21,4 +21,3 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
   The reason is that the 'name' attributes for radio buttons mismatch, 
   should be name="radio-ex" for both light radio buttons and name="radio-ex-dark" for both dark radio buttons.
--->
