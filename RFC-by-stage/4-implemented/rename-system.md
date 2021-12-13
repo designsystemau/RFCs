@@ -1,6 +1,6 @@
 ---
-Status: `Proposal` # Please do not change this.
-Implementer: # It will be changed upon merging and as it moves through the RFC stages
+Status: `Implemented` # Please do not change this.
+Implementer: @elisechant
 ---
 
 # Rename design system to GOLD
