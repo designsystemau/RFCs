@@ -9,7 +9,7 @@ Implementer: # It will be changed upon merging and as it moves through the RFC s
 
 CSS is currently being distributed as minified and vendor-prefixed assets.
 
-This is unnecessary since users also process styles for minification and vendor-prefixing, therefore css "as modules" should ship without being processed. This issue was raised by @liamfiddler [here](https://github.com/designsystemau/RFCs/pull/11#discussion_r724769922).
+This is unnecessary since users (developing apps using npm) process styles for minification and vendor-prefixing, therefore css "as modules" should ship without being processed. This issue was raised by @liamfiddler [here](https://github.com/designsystemau/RFCs/pull/11#discussion_r724769922).
 
 Where users want to consume full CSS however, they may still expect the asset to be vendor prefixed and minified. This scenario might be handled better by delivering styles from a CDN like [UNPKG](https://unpkg.com/).
 
