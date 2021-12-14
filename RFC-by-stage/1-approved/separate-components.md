@@ -17,4 +17,20 @@ We should still re-use the same CSS though or aim to at least use the same token
 
 ## Technical details
 
-TODO 😬
+The implementation would be split in separate entry points.
+So inside the monorepo we would have a structure like this:
+
+```sh
+.
+└── packages
+    ├── react
+    │   └── ... (a folder per component that is supported in react)
+    ├── jquery
+    │   └── ... (a folder per component that is supported in jquery)
+    └── vanilla
+        └── ... (a folder per component that is supported in vanilla)
+```
+
+This will make it easier to make changes to each entry-point.
+
+we will work to re-use the tokens wherever we can and since the workspaces are visible to each other this should be simple enough.
