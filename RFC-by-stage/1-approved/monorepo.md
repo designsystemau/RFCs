@@ -38,3 +38,22 @@ The docs website will be included into this monorepo so that docs are drawn from
 That way we won't have to deal duplicating docs in two places.
 
 This depends on [Docs site improvements #4](https://github.com/designsystemau/RFCs/pull/4).
+
+The structure of the monorepo would look like this then:
+
+```sh
+.
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── DEVELOPING.md
+├── LICENSE
+├── README.md
+├── SUPPORT.md
+├── auds.json
+├── docs
+│   └── ... (the docs site published at https://gold.designsystemau.org)
+├── package-lock.json
+├── package.json
+└── packages
+    └── ... (a directory per component)
+```
