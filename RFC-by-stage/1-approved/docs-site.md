@@ -20,6 +20,10 @@ We should strip other irrelevant pages from the site as well and perhaps add pag
 
 ## Technical details
 
-Prior art here: https://github.com/dominikwilkowski/ds-workshop
+Implementation: https://github.com/dominikwilkowski/ds-workshop
 
-MORE DETAILS COMING 😬
+The docs site will be inside the monorepo so we will be able to re-use the docs for each component from each component folder.
+The design will simplify a bit to keep it simple.
+I propose [next.js](https://nextjs.org/) to build the site off of it's own react components.
+We will then use the [`export`](https://nextjs.org/docs/advanced-features/static-html-export) task of next to generate flat static html pages.
+That way the page will work without js.
