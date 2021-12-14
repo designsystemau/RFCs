@@ -21,3 +21,27 @@ This means consumers can use the CSS file the way they like including via the `<
 1. Remove the `postinstall` hook from each packages `package.json`
 2. Remove the code that injects the imports automatically from [the helper](https://github.com/designsystemau/design-system-components/blob/master/scripts/helper.js#L432)
 3. Document how to use the components and the CSS together
+
+The way you would have to use the components in react would then be:
+
+```js
+import Button from '@gold.au/buttons';
+
+import '@gold.au/buttons/styles.css';
+
+function MyApp() {
+	return <Button>My button</Button>;
+}
+```
+
+This will require the [webpack CSS loader](https://webpack.js.org/loaders/css-loader/) in webpack while Parcel requires no config.
+
+The Sass files will then not be available anymore for integration as they currently feature lines like:
+
+```sass
+@import '../../../core/src/sass/_module.scss';
+```
+
+That path is only available within the monorepo.
+
+❗️ This means no more Sass exports.
